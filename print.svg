@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="print.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="92.986297"
+     inkscape:cy="478.34462"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4246"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4246"
+       transform="translate(7.4758063,-13.323965)">
+      <g
+         id="g4169"
+         transform="translate(-3.8559024e-6,1.444236e-6)">
+        <g
+           transform="translate(0,-1.9073486e-6)"
+           id="g4162">
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_05.png"
+             xlink:href="serial_05.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4166"
+             x="42.571442"
+             y="832.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_03.png"
+             xlink:href="serial_03.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4177"
+             x="42.571442"
+             y="442.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_01.png"
+             xlink:href="serial_01.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4188"
+             x="42.571442"
+             y="52.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_02.png"
+             xlink:href="serial_02.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4210"
+             x="42.571442"
+             y="247.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_04.png"
+             xlink:href="serial_04.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4232"
+             x="42.571442"
+             y="637.00507" />
+        </g>
+        <g
+           id="g4155">
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_09.png"
+             xlink:href="serial_09.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4144"
+             x="364.57144"
+             y="637.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_07.png"
+             xlink:href="serial_07.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4155"
+             x="364.57144"
+             y="247.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_06.png"
+             xlink:href="serial_06.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4199"
+             x="364.57144"
+             y="52.005066" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_08.png"
+             xlink:href="serial_08.png"
+             width="322"
+             height="195"
+             preserveAspectRatio="none"
+             id="image4221"
+             x="364.57144"
+             y="442.00507" />
+          <image
+             sodipodi:absref="D:\3846masa\Desktop\DATA_OCreilly\TechBookFest2016\serial\serial_00.png"
+             xlink:href="serial_00.png"
+             y="832.00507"
+             x="364.57144"
+             id="image4152"
+             preserveAspectRatio="none"
+             height="195"
+             width="322" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
