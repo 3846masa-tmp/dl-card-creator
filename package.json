@@ -5,7 +5,7 @@
   "main": "create.js",
   "dependencies": {
     "co": "^4.6.0",
-    "fs-promise": "^0.5.0"
+    "fs-promise": "^2.0.2"
   },
   "devDependencies": {},
   "scripts": {
